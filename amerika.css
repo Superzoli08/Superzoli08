@@ -1,0 +1,54 @@
+
+header {
+    margin-top: 20px;
+    height: 350px;
+    background-image: url('amerika_bg.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.bogz{
+    margin-left: 5px;
+    text-align: justify;
+    width: 76%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    background-color: rgb(22, 22, 22);
+    color: white;
+    border-radius: 20px;
+    float: left;
+}
+
+#img{
+    border-radius: 25px;
+}
+
+.fal{
+    border: 3px solid black;
+}
+
+carousel slide{
+    float: right;
+}
+
+.container-fluid{
+    width: 80%;
+    margin:auto;
+}
+
+.gordulo{
+    float: right;
+    width: 20%;
+    padding-right: 2px;
+}
+
+img{
+    border-radius: 20px;
+}

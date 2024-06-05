@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(214, 229, 241);
+}
+
+nav{
+    background-color:rgb(91, 128, 197);
+}
+
+p{
+    
+}
+
+.bogz{
+    font-size: 150%;
+    width: 75%;
+    margin: auto;
+    background-color: rgb(15, 15, 15);
+    border-top-left-radius: 15px;    border-top-right-radius: 15px;
+    text-align: justify;
+
+}
+
+footer{
+
+}
+
+header {
+    height: 350px;
+    background-image: url('Balaton_bg1.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+video{
+    height: 400px;
+}
+
+section{
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    width: 75%;
+}
